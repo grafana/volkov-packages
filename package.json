@@ -1,7 +1,8 @@
 {
-  "author": "Volkov Labs",
+  "author": "Grafana Labs",
   "description": "Public packages",
   "name": "volkovlabs-packages",
+  "private": true,
   "packageManager": "^npm@9.0.0",
   "scripts": {
     "build": "npm run build --workspaces",

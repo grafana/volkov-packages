@@ -1,5 +1,11 @@
 # Business Packages for Grafana
 
+>This project was originally contributed by [Vonage](https://github.com/Vonage/Grafana_Status_panel) - thanks for all your great work!
+>
+>We have republished these packages under the `@grafana` namespace on NPM. For additional information on the changes, see the [Notices](/NOTICES).
+
+⚠️ This project is not actively maintained by Grafana Labs. Pull requests are welcome and will be reviewed on a best-effort basis. Contact integrations@grafana.com if you are interested in taking on this project longer term. We will be happy to work with and eventually hand over to people who are interested in maintaining it again.
+
 A collection of **NPM packages** designed for the Business Suite for Grafana, providing tools and plugins to solve common business challenges with intuitive interfaces and comprehensive documentation.
 
 ## Install All Packages

@@ -1,12 +1,12 @@
 {
-  "author": "Volkov Labs",
+  "author": "Grafana Labs",
   "dependencies": {
     "@emotion/css": "^11.11.2",
     "@grafana/data": "^12.1.0",
     "@grafana/runtime": "^12.1.0",
     "@grafana/scenes": "^5.20.2",
     "@grafana/ui": "^12.1.0",
-    "@volkovlabs/jest-selectors": "^1.5.0",
+    "@grafana/volkovlabs-jest-selectors": "^1.5.0",
     "classnames": "^2.5.1",
     "rc-slider": "^10.5.0",
     "rc-tooltip": "^6.2.0"
@@ -33,7 +33,7 @@
     "@types/node": "^20.9.1",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
-    "@volkovlabs/eslint-config": "^2.0.0",
+    "@grafana/volkovlabs-eslint-config": "^2.0.0",
     "css-loader": "^6.8.1",
     "esbuild": "^0.19.5",
     "eslint": "^9.31.0",
@@ -66,7 +66,7 @@
   ],
   "license": "Apache-2.0",
   "main": "dist/index.js",
-  "name": "@volkovlabs/components",
+  "name": "@grafana/volkovlabs-components",
   "peerDependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"

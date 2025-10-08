@@ -1,0 +1,12 @@
+Copyright (c) 2025 Grafana Labs
+
+This software is based on the Business Packages project from VolkovLabs: Copyright (c) 2023-2025 VolkovLabs. For copies of the original licenses, see 
+
+- [components](/components/LICENSE-original)
+- [eslint-config](/eslint-config/LICENSE-original)
+- [jest-selectors](/jest-selectors/LICENSE-original)
+
+Notable changes:
+- From a project perspective, the License has remained the same as Apache 2.0 but re-licensed by Grafana Labs.
+- The packages have all be re-published under the Grafana NPM namespace, with the naming convention of `@volkovlabs/<packagename>` to `@grafana/volkovlabs-<packagename>`.
+- For a complete list of changes following the fork, refer to the [CHANGELOG](/CHANGELOG).

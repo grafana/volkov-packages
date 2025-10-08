@@ -1,11 +1,11 @@
 {
-  "author": "Volkov Labs",
+  "author": "Grafana Labs",
   "description": "Jest selectors",
   "devDependencies": {
     "@types/node": "^20.4.2",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
-    "@volkovlabs/eslint-config": "^2.0.0",
+    "@grafana/volkovlabs-eslint-config": "^2.0.0",
     "esbuild": "^0.18.13",
     "eslint": "^9.31.0",
     "eslint-config-prettier": "^10.1.5",
@@ -31,7 +31,7 @@
   ],
   "license": "Apache-2.0",
   "main": "dist/index.js",
-  "name": "@volkovlabs/jest-selectors",
+  "name": "@grafana/volkovlabs-jest-selectors",
   "peerDependencies": {
     "@testing-library/react": "^16.0.1"
   },

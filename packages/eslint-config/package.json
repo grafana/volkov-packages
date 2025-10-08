@@ -1,5 +1,5 @@
 {
-  "author": "Volkov Labs",
+  "author": "Grafana Labs",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
@@ -19,7 +19,7 @@
   ],
   "license": "Apache-2.0",
   "main": "index.mjs",
-  "name": "@volkovlabs/eslint-config",
+  "name": "@grafana/volkovlabs-eslint-config",
   "peerDependencies": {
     "eslint": "^9.0.0"
   },
