@@ -3,7 +3,7 @@ import { defineConfig, globalIgnores } from 'eslint/config';
 import prettierConfig from 'eslint-config-prettier/flat';
 import storybookPlugin from 'eslint-plugin-storybook';
 
-import eslintConfig from '@volkovlabs/eslint-config';
+import eslintConfig from '@grafana/volkovlabs-eslint-config';
 
 export default defineConfig(
   eslintConfig,

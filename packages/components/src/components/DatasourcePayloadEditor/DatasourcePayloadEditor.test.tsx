@@ -1,6 +1,6 @@
 import { getDataSourceSrv, getTemplateSrv } from '@grafana/runtime';
 import { act, fireEvent, render, screen } from '@testing-library/react';
-import { createSelector, getJestSelectors } from '@volkovlabs/jest-selectors';
+import { createSelector, getJestSelectors } from '@grafana/volkovlabs-jest-selectors';
 import React from 'react';
 
 import { TEST_IDS } from '../../constants';

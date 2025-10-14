@@ -3,7 +3,7 @@
 ## Install
 
 ```
-npm install --save-dev @volkovlabs/eslint-config
+npm install --save-dev @grafana/volkovlabs-eslint-config
 ```
 
 ## Usage
@@ -11,7 +11,7 @@ npm install --save-dev @volkovlabs/eslint-config
 Add to ESLint config the following
 
 ```
-import eslintConfig from '@volkovlabs/eslint-config';
+import eslintConfig from '@grafana/volkovlabs-eslint-config';
 import { defineConfig } from 'eslint/config';
 
 export default defineConfig([

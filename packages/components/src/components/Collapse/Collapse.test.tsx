@@ -1,5 +1,5 @@
 import { fireEvent, render, screen } from '@testing-library/react';
-import { createSelector, getJestSelectors } from '@volkovlabs/jest-selectors';
+import { createSelector, getJestSelectors } from '@grafana/volkovlabs-jest-selectors';
 import React from 'react';
 
 import { Collapse } from './Collapse';

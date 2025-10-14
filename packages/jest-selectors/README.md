@@ -3,14 +3,14 @@
 ## Install
 
 ```
-npm install --save-dev @volkovlabs/jest-selectors
+npm install --save-dev @grafana/volkovlabs-jest-selectors
 ```
 
 ## Example of usage
 
 ```javascript
 import { screen } from '@testing-library/react'
-import { getJestSelectors } from '@volkovlabs/jest-selectors';
+import { getJestSelectors } from '@grafana/volkovlabs-jest-selectors';
 
 const TestIds = {
   panel: {

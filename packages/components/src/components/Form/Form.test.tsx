@@ -1,5 +1,5 @@
 import { act, fireEvent, render, screen, waitFor, within } from '@testing-library/react';
-import { getJestSelectors } from '@volkovlabs/jest-selectors';
+import { getJestSelectors } from '@grafana/volkovlabs-jest-selectors';
 import React from 'react';
 
 import { TEST_IDS } from '../../constants';

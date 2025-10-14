@@ -1,5 +1,5 @@
 import tsParser from '@typescript-eslint/parser';
-import eslintConfig from '@volkovlabs/eslint-config';
+import eslintConfig from '@grafana/volkovlabs-eslint-config';
 import { defineConfig } from 'eslint/config';
 import prettierConfig from 'eslint-config-prettier/flat';
 

@@ -43,7 +43,7 @@
   "repository": {
     "directory": "packages/jest-selectors",
     "type": "git",
-    "url": "https://github.com/VolkovLabs/volkovlabs-packages.git"
+    "url": "https://github.com/grafana/volkovlabs-packages.git"
   },
   "scripts": {
     "build": "rollup -c",

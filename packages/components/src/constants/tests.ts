@@ -1,4 +1,4 @@
-import { createSelector } from '@volkovlabs/jest-selectors';
+import { createSelector } from '@grafana/volkovlabs-jest-selectors';
 
 /**
  * Test Identifiers
