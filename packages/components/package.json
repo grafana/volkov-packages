@@ -30,7 +30,7 @@
     "@testing-library/jest-dom": "^6.1.4",
     "@testing-library/react": "^16.0.0",
     "@types/jest": "^29.5.8",
-    "@types/node": "^20.9.1",
+    "@types/node": "^24.0.0",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
     "@volkovlabs/eslint-config": "^2.0.0",

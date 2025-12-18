@@ -2,7 +2,7 @@
   "author": "Volkov Labs",
   "description": "Jest selectors",
   "devDependencies": {
-    "@types/node": "^20.4.2",
+    "@types/node": "^24.0.0",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
     "@volkovlabs/eslint-config": "^2.0.0",
