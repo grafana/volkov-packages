@@ -13,7 +13,7 @@
   },
   "description": "Business UI Components for Grafana",
   "devDependencies": {
-    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-terser": "^1.0.0",
     "@storybook/addon-actions": "^8.0.8",
     "@storybook/addon-essentials": "^7.5.3",
     "@storybook/addon-interactions": "^7.5.3",
