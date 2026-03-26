@@ -21,7 +21,7 @@
   "main": "index.mjs",
   "name": "@volkovlabs/eslint-config",
   "peerDependencies": {
-    "eslint": "^9.0.0"
+    "eslint": "^9.0.0 || ^10.0.0"
   },
   "publishConfig": {
     "access": "public",
