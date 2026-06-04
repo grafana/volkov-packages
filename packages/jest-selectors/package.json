@@ -6,7 +6,7 @@
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
     "@volkovlabs/eslint-config": "^2.0.0",
-    "esbuild": "^0.18.13",
+    "esbuild": "^0.25.0",
     "eslint": "^9.31.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^5.5.1",
